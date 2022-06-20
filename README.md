@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @0000Akash
+- 👋 Hi, I’m Akash
 - I'm 18 years old.
 I live in Bangladesh
 - 👀 I'm curious behind the scenes of blockchain. I am also working. I'm doing testnet in my spare time and trying to set up Node.
